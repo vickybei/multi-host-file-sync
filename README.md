@@ -1,1 +1,1 @@
-# multi-host-file-sync
+# multi host file sync
